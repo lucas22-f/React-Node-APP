@@ -1,0 +1,7 @@
+.bg-mio {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.676), rgba(0, 0, 0, 0.676)),
+    url("../assets/img/maybe.jpg");
+}
